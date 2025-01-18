@@ -1,12 +1,10 @@
-- Gu, C., Lu, M.*, </strong>Liu, Y</strong>.* (2024) The hyporheic exchange remarkably influences methane dynamics and effluxes in rivers. [[Code]](https://doi.org/10.1016/j.jhydrol.2024.132400)
+- Gu, C., Lu, M.*, </strong>Liu, Y.*</strong> (2024) The hyporheic exchange remarkably influences methane dynamics and effluxes in rivers. Journal of Hydrology. [[Full text]](https://doi.org/10.1016/j.jhydrol.2024.132400)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Gu, C., </strong>Liu, Y.*</strong>, Hongkai Qi, Mengqian Lu*. (2024) Influences of Carbonate Weathering and Hyporheic Exchange on Carbon Fluxes in Pearl River Basin, China. Water Research. [[Full text]](https://doi.org/10.1016/j.watres.2024.122014)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Liu, Y.*</strong>, Yu, SC, Jiao, J.J. <strong>(Under review)</strong> Seasonality of radium isotopes in an intertidal aquifer.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Qi, H., <strong>Liu, Y.*</strong>, Wang, H., Kuang, X., Jiao, J., Gan, J. <strong>(Under review)</strong> Carbonate Weathering Enhances Nitrogen Assimilatory Uptake in River Networks.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 

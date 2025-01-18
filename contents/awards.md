@@ -1,13 +1,25 @@
-- National Scholarship of Graduate Student, 2024.
+#### PhD Candidate
 
-- First-prize Scholarship of CUMT, 2024.
+- Qi Hongkai
 
-- First-prize Scholarship of CUMT, 2023.
+- Chengxing
 
-- Freshman Scholarship of CUMT, 2022.
+- Yan Zhang
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Huan Wang
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- Junyi Zhuang
 
-- First-prize Scholarship of CUMT, 2019.
+#### MPhil studnet
+
+- Xinke Li
+
+- Yuke Li
+
+#### Research Assistant
+
+- Huanglin Luo
+
+- Zhiyun Deng
+
+- Shuoyu Zhang
